@@ -1,6 +1,6 @@
-# Gholian.ir - Mohammad Kazem Gholian's Weblog
+# Gholian.ir - Mohammad Kazem Gholian's Blog
 
-This project has been made as my personal persian language blog site and it's a forked version of [DanteAstroTheme](JustGoodUI/dante-astro-theme)
+This project has been made as my personal persian language blog site and it's a forked version of [DanteAstroTheme](https://github.com/JustGoodUI/dante-astro-theme)
 
 
 ## Theme Features:
